@@ -20,17 +20,17 @@
         1. URL: <https://edabit.com/challenge/Q4mYkd8nc8zdFBDE8> 
         2. Solution: <http://prnt.sc/qaql0g> 
      2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/ZN5cpGPNRS3nrjMo5>
+        2. Solution: <http://prnt.sc/qb2xra>
          ***
 
   4. Functional Programing
      1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/yyKv8f4FrZPDaJbDs> 
+        2. Solution: <http://prnt.sc/qb3234> 
      2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/MfAkm7CkWqepAZTBM>
+        2. Solution: <http://prnt.sc/qb38x1>
         ***
 
   5. Scope
