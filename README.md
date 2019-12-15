@@ -44,17 +44,17 @@
 
   6. Objects
      1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/5Yt2CrYdrJvoJFHRt> 
+        2. Solution: <http://prnt.sc/qb661b> 
      2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/5qYYauQwYwxz3nd9R>
+        2. Solution: <http://prnt.sc/qb68xt>
       ***
 
   7. Classes
      1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/2FF7RKw9RLwc3EBY9> 
+        2. Solution: <http://prnt.sc/qb7c22> 
      2. Challenge 2
         1. URL: <>
         2. Solution: <>      
