@@ -35,8 +35,8 @@
 
   5. Scope
      1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/v4fxXDcyqWx7FnX2s> 
+        2. Solution: <http://prnt.sc/qc0xh0> 
      2. Challenge 2
         1. URL: <>
         2. Solution: <> 
